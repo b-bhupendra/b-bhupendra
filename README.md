@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b-bhupendra
-- 👀 I’m interested in Infosec , Web developement 
-- 🌱 I’m currently learning Pen Testing 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning DS/ML
 - 📫 How to reach me bhupendrasr08@gmail.com
 
 <!---
