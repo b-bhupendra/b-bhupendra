@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b-bhupendra
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning DS/ML
+- 👀 I’m interested in Full Stack Developement 
+- 🌱 I’m currently learning FastApi/React
 - 📫 How to reach me bhupendrasr08@gmail.com
 
 <!---
