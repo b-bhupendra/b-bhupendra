@@ -1,51 +1,78 @@
-<h1 align="center">Hi there, I'm Bhupendra 👋</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver</h3>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=40&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=INITIATING+SYSTEM...;GREETINGS,+INTERNET.;I+AM+BHUPENDRA.;FULL-STACK+CYBER-ARCHITECT." alt="System Boot Sequence" />
 
-<p align="center">
-  I'm a developer passionate about building scalable web applications, integrating robust backends, and bridging the gap between clean code and great user experiences. Always eager to learn, optimize, and deploy!
-</p>
+  <p align="center">
+    <a href="https://github.com/b-bhupendra">
+      <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00FF00?style=for-the-badge&logo=probot&logoColor=white" alt="Status" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/LOCATION-NEW_DELHI_NODE-00FFFF?style=for-the-badge&logo=google-earth&logoColor=white" alt="Location" />
+    </a>
+  </p>
 
----
+  <h3>🌌 Architecting the digital frontier. Bridging neural-net logic with hyper-responsive UI.</h3>
 
-### 🛠️ Tech Stack & Tools
+</div>
 
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00C58E)
+<br>
 
-**Backend:**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Data & ML:**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-**Cloud & Deployment:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+> **[ TERMINAL OUTPUT ]** > `> Loading organic unit profile...`  
+> `> Designation: Bhupendra`  
+> `> Primary Function: Full-Stack Engineering, Data Infrastructure, & Algorithmic Combat (LeetCode).`  
+> `> Current Directive: Synthesizing heavy-duty backends with high-velocity frontends.`
 
 ---
 
-### 🔭 What I'm Up To
+### ⚡ CYBERNETIC ENHANCEMENTS (Tech Stack)
 
-- 🌱 **Currently deep-diving into:** Building modern, high-performance web architectures utilizing the **FastAPI** + **React** ecosystem.
-- 💡 **Recent Work:** Architecting practical applications like an Expense Tracking System and building data-driven models (e.g., Health Insurance Cost Predictors).
-- 🚀 **Infrastructure:** Deploying and scaling projects across **AWS** and **GCP**.
-- 🧠 **Sharpening skills:** Consistently tackling algorithmic challenges and competitive programming on **LeetCode**.
+**[ NEURAL INTERFACES // Frontend ]**
+<br>
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFCC)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=00FFCC)
+
+**[ CORE PROCESSING // Backend ]**
+<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFCC)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFCC)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FFCC)
+
+**[ MACHINE LEARNING & DATA PROTOCOLS ]**
+<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FFCC)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFCC)
+
+**[ ORBITAL DEPLOYMENT // Cloud ]**
+<br>
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FFCC)
+![Google Cloud](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=00FFCC)
 
 ---
 
-### 📫 Let's Connect
+### 🚀 ACTIVE DIRECTIVES (Current Operations)
 
-<div align="left">
+- 🔋 **Overclocking skills in:** Creating hyper-fast APIs with **FastAPI** and rendering them through **React** interfaces.
+- 🏗️ **Constructing Matrixes:** Engineering real-world architectures like seat reservation algorithms (with GPay data flow), automated expense tracking pipelines, and predictive health insurance models.
+- ☁️ **Stratospheric Uplinks:** Launching scalable containerized applications across **AWS** and **GCP** server environments.
+- ⚔️ **Combat Training:** Sharpening raw logic and computational efficiency in the **LeetCode** arenas.
+
+---
+
+### 📡 ESTABLISH COMM-LINK
+
+*Need an architect for your next digital construct? Ping my mainframe.*
+
+<div align="center">
   <a href="mailto:bhupendrasr08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/TRANSMIT_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FFCC" alt="Email" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/CONNECT_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=b-bhupendra&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FFCC&text_color=FFFFFF&icon_color=00FFCC" alt="b-bhupendra's GitHub stats" />
+</div>
