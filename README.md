@@ -1,30 +1,31 @@
 <div align="center">
 
-  <!-- Typing SVG Banner -->
+  <!-- Animated Typing Header -->
   <a href="https://github.com/b-bhupendra">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F43F5E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%90%8D+I'm+Bhupendra!;Python+Developer+%26+Systems+Architect;Creator+of+AETHER+HUB+%F0%9F%8C%B8;Building+High-Performance+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F43F5E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%90%8D+I'm+Bhupendra!;Python+Developer+%26+Systems+Architect;Creator+of+AETHER+HUB+%F0%9F%8C%B8;Building+High-Performance+Apps" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <b>Python Developer • Systems Architect • Full-Stack Engineer</b>
   </p>
 
+  <!-- Clean Contact & Social Badges -->
   <p align="center">
     <a href="https://github.com/b-bhupendra?tab=repositories">
-      <img src="https://img.shields.io/github/stars/b-bhupendra?style=for-the-badge&color=F43F5E&logo=github" alt="GitHub Stars" />
-    </a>
-    <a href="https://github.com/b-bhupendra?tab=followers">
-      <img src="https://img.shields.io/github/followers/b-bhupendra?style=for-the-badge&color=38BDF8&logo=github" alt="GitHub Followers" />
+      <img src="https://img.shields.io/badge/GitHub-Repositories-F43F5E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
     </a>
     <a href="mailto:bhupendrasr08@gmail.com">
-      <img src="https://img.shields.io/badge/Email-bhupendrasr08%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/b-bhupendra">
+      <img src="https://img.shields.io/badge/Status-Active_Developer-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Status" />
     </a>
   </p>
 </div>
 
 <hr />
 
-## 👨‍💻 About Me
+## 👨‍💻 Developer Profile
 
 ```python
 class Developer:
@@ -49,6 +50,14 @@ me = Developer()
 - 🐍 **Primary Specialization**: Senior Python Developer specializing in backend microservices, automation scripts, and full-stack software architecture.
 - ⚡ **Cross-Platform Engineering**: Building native hardware-accelerated desktop apps using **Go** + **Wails v2** + **React**.
 - 🛠 **Open Source Craftsman**: Obsessed with pixel-perfect UI designs, clean Git commit workflows, and self-documenting code.
+
+---
+
+## 🏆 Github Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=b-bhupendra&theme=rose&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -86,30 +95,20 @@ me = Developer()
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity_IDE-F43F5E?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-F43F5E?style=for-the-badge&logo=spacex&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Analytics
 
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=b-bhupendra&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Bhupendra's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-bhupendra&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## 🐍 Git Commit Contribution Snake
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/b-bhupendra/b-bhupendra/output/github-contribution-grid-snake.svg" alt="Snake animation eating git commits" />
 
 </div>
 
