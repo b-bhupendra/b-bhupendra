@@ -1,202 +1,439 @@
-# 👋 Hi, I'm Bhupendra Singh Rawat
+````markdown
+<div align="center">
+
+<br>
+
+<img src="https://img.shields.io/badge/-%20-00F5D4?style=flat-square" alt="accent" width="120" height="4" />
+
+<br>
+
+<sub><b>01 / PROFILE INITIALIZED</b></sub>
+
+# Bhupendra Singh Rawat
 
 ### Full-Stack Developer · AI Engineer
 
-**Python · React · FastAPI · TypeScript · AI**
-
-I build production-ready web applications, backend systems, analytics platforms and AI-powered developer tools.
-
-My work sits at the intersection of **full-stack engineering, Python backend development and applied AI** — from React interfaces and FastAPI services to LLM workflows, data pipelines and developer tooling.
-
-<p align="left">
-  <a href="https://github.com/b-bhupendra">
-    <img src="https://img.shields.io/badge/GitHub-b--bhupendra-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bhupendrasinghrawat/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+<p>
+  <b>Python</b> &nbsp;·&nbsp; <b>React</b> &nbsp;·&nbsp; <b>FastAPI</b> &nbsp;·&nbsp; <b>TypeScript</b> &nbsp;·&nbsp; <b>AI</b>
 </p>
 
+<p>
+  I build complete software systems — from polished interfaces and APIs
+  <br />
+  to intelligent workflows, data pipelines and developer tools.
+</p>
+
+<br />
+
+<a href="https://github.com/b-bhupendra">
+  <img src="https://img.shields.io/badge/GitHub-b--bhupendra-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://github.com/b-bhupendra?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore%20the%20work-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Repositories" />
+</a>
+
+<br />
+<br />
+
+<sub>
+  <b>PYTHON</b> &nbsp;/&nbsp; <b>REACT</b> &nbsp;/&nbsp; <b>FASTAPI</b> &nbsp;/&nbsp; <b>AI</b>
+</sub>
+
+</div>
+
 ---
 
-## ⚡ What I Build
+<div align="center">
 
-| Area                | What I work with                                                      |
-| ------------------- | --------------------------------------------------------------------- |
-| **Frontend**        | React, TypeScript, JavaScript, Next.js, Tailwind                      |
-| **Backend**         | Python, FastAPI, REST APIs, async services                            |
-| **AI / LLM**        | LLM applications, AI pipelines, RAG, MCP, intelligent developer tools |
-| **Data**            | Pandas, SQL, ETL pipelines, analytics, visualization                  |
-| **Databases**       | PostgreSQL, SQLite, Redis                                             |
-| **Infrastructure**  | Docker, AWS, Linux, Git, CI/CD                                        |
-| **Desktop / Tools** | Go, Wails, browser extensions, developer utilities                    |
+> <i>"Build the whole system — not just the visible part."</i>
+
+</div>
+
+## 02 / WHAT I BUILD
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ◈ Full-Stack
+
+I build end-to-end applications where the interface, API, data layer and product logic work as one system.
+
+**React**  
+**TypeScript**  
+**Python**  
+**FastAPI**  
+**REST APIs**
+
+</td>
+<td width="33%" valign="top">
+
+### ◇ Intelligent Systems
+
+I use AI as an engineering layer — turning models into workflows, tools and useful product features.
+
+**LLM applications**  
+**RAG**  
+**MCP**  
+**AI automation**  
+**Machine Learning**
+
+</td>
+<td width="33%" valign="top">
+
+### ◆ Data & Infrastructure
+
+The less-visible parts matter too: storage, pipelines, async work, deployment and observability.
+
+**SQL**  
+**PostgreSQL**  
+**ETL**  
+**Docker**  
+**AWS / Linux**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Systems
+## 03 / A LITTLE CONTEXT
+
+```python
+class Developer:
+    name = "Bhupendra"
+    role = "Full-Stack Developer · AI Engineer"
+
+    focus = [
+        "Full-Stack Applications",
+        "Python Backend Engineering",
+        "AI-Powered Products",
+        "Data & Automation",
+    ]
+
+    stack = {
+        "frontend": ["React", "TypeScript"],
+        "backend": ["Python", "FastAPI"],
+        "data": ["SQL", "Pandas", "PostgreSQL"],
+        "ai": ["LLMs", "RAG", "MCP"],
+        "infra": ["Docker", "AWS", "Linux"],
+    }
+
+    philosophy = "Understand the problem. Design the system. Ship the result."
+````
+
+The part of software engineering I enjoy most is the **connection between layers**.
+
+A good interface should know what the backend needs.
+A good backend should know where the data is going.
+An AI feature should solve a real problem rather than exist as decoration.
+
+That is the space I like working in: **useful products with solid engineering underneath.**
+
+---
+
+## 04 / SELECTED SYSTEMS
+
+> A deliberately small selection from a much larger collection of projects, experiments and engineering work.
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 LeetCode AI Intelligence
 
-**Autonomous AI intelligence platform for understanding competitive programming data.**
+Autonomous AI intelligence platform combining problem analysis, company classification, algorithmic archetypes, continuous ingestion and MCP tooling.
 
-Built around company classification, algorithmic archetypes, continuous ingestion, AI workflows and MCP-based tooling.
+`Python` `AI/LLM` `MCP` `Data Pipelines`
 
-**Python · AI/LLM · MCP · Data Pipelines**
+<a href="https://github.com/b-bhupendra/leetcode-ai-intelligence"><b>View repository →</b></a>
 
-[View repository →](https://github.com/b-bhupendra/leetcode-ai-intelligence)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### ⚡ AETHER-HUB
 
-**Next-generation developer workspace and project management engine.**
+A translucent developer workspace and project-management engine built around a React interface and Go/Wails desktop architecture.
 
-A desktop workspace combining a React interface with Go/Wails, local project management and a translucent Windows-inspired UI.
+`React` `TypeScript` `Go` `Wails`
 
-**React · TypeScript · Go · Wails · SQLite**
+<a href="https://github.com/b-bhupendra/AETHER-HUB"><b>View repository →</b></a>
 
-[View repository →](https://github.com/b-bhupendra/AETHER-HUB)
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏢 Business Management System
 
-**Full-stack business management platform.**
+A complete business application split across frontend and backend repositories, giving the UI, service layer and application logic room to evolve independently.
 
-A complete frontend/backend application built as separate React/TypeScript and Python services.
+`React` `TypeScript` `Python`
 
-**React · TypeScript · Python · Backend APIs**
+<a href="https://github.com/b-bhupendra/Business-management-system-frontend"><b>Frontend →</b></a>
+ ·  <a href="https://github.com/b-bhupendra/Business-management-system-backend"><b>Backend →</b></a>
 
-[Frontend →](https://github.com/b-bhupendra/Business-management-system-frontend) · [Backend →](https://github.com/b-bhupendra/Business-management-system-backend)
+</td>
+<td width="50%" valign="top">
+
+### 🎥 Video Transcriber
+
+LLM-based tooling for transforming video content into structured knowledge and reusable references.
+
+`TypeScript` `LLM` `AI Workflows`
+
+<a href="https://github.com/b-bhupendra/Video-Transcriber"><b>View repository →</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Retail Sales ETL
+
+End-to-end retail data pipeline work covering transformation, analytical datasets and business-facing dashboard outputs.
+
+`Python` `Pandas` `SQL` `Streamlit`
+
+<a href="https://github.com/b-bhupendra/retail_sales_etl_analytics_pipeline"><b>View repository →</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 Food Delivery Analytics
+
+Marketplace analytics exploring customer behaviour, order milestones, loyalty patterns and SQL-driven insights.
+
+`Python` `SQL` `Streamlit` `SQLite`
+
+<a href="https://github.com/b-bhupendra/food_delivery_sql_streamlit_analytics"><b>View repository →</b></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎥 AI Video Transcriber
+## 05 / THE TOOLBOX
 
-**LLM-powered video transcription and knowledge-building workflow.**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Designed to transform video content into structured knowledge and references.
+#### Frontend
 
-**TypeScript · LLM · AI workflows**
+`React` `TypeScript` `JavaScript` `Next.js` `Tailwind CSS`
 
-[View repository →](https://github.com/b-bhupendra/Video-Transcriber)
+<br />
+
+#### Backend
+
+`Python` `FastAPI` `Django` `REST APIs` `AsyncIO`
+
+</td>
+<td valign="top" width="50%">
+
+#### Data / AI / Systems
+
+`SQL` `PostgreSQL` `SQLite` `Redis` `Pandas`
+
+`LLMs` `RAG` `MCP` `Machine Learning`
+
+<br />
+
+#### Infrastructure / Other
+
+`Docker` `AWS` `Linux` `Git` `CI/CD` `Go` `Wails`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Open the stack in plain text</b></summary>
+
+<br />
+
+| Layer               | Technologies                                                |
+| ------------------- | ----------------------------------------------------------- |
+| **Frontend**        | React, TypeScript, JavaScript, Next.js, Tailwind CSS        |
+| **Backend**         | Python, FastAPI, Django, REST APIs, asynchronous services   |
+| **AI**              | LLM applications, RAG, MCP, AI automation, Machine Learning |
+| **Data**            | SQL, PostgreSQL, SQLite, Redis, Pandas, ETL, analytics      |
+| **Infrastructure**  | Docker, AWS, Linux, Git, CI/CD                              |
+| **Desktop / Tools** | Go, Wails, browser extensions, developer utilities          |
+
+</details>
 
 ---
 
-### 📊 Retail Sales ETL & Analytics
+## 06 / HOW I LIKE TO WORK
 
-**End-to-end data engineering and analytics pipeline.**
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
 
-Transforms retail data into structured analytical datasets and interactive business insights.
+### 01
 
-**Python · Pandas · SQL · Streamlit**
+**UNDERSTAND**
 
-[View repository →](https://github.com/b-bhupendra/retail_sales_etl_analytics_pipeline)
+Start with the real problem, not the technology.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 02
+
+**DESIGN**
+
+Shape the architecture before adding unnecessary complexity.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 03
+
+**BUILD**
+
+Keep the system modular, testable and understandable.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 04
+
+**REFINE**
+
+Polish the interface, performance and developer experience.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 My Engineering Stack
+## 07 / CURRENT INTERESTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**AI / INTELLIGENCE**
+
+• LLM-powered applications
+• AI-assisted developer tooling
+• RAG and knowledge workflows
+• MCP-based integrations
+
+</td>
+<td width="50%" valign="top">
+
+**ENGINEERING / PRODUCT**
+
+• Python + FastAPI services
+• React product interfaces
+• Async backend systems
+• Data engineering & automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 08 / MORE FROM THE LAB
+
+The repository history spans more than one kind of engineering. There are full-stack applications, AI/LLM systems, backend APIs, React projects, analytics pipelines, browser extensions, utilities, database work and smaller experiments.
+
+That mix is intentional.
+
+Some repositories represent **what I can ship**.
+Some represent **what I am learning**.
+Some exist because I wanted to know whether an idea would work.
+
+I like keeping that progression visible.
+
+<details>
+<summary><b>Explore the repository themes</b></summary>
+
+<br />
+
+| Area                 | Examples from the repository set                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Full Stack**       | AETHER-HUB, Business Management System, Seat Reservation System, Trim Time, Omni Food Spot                    |
+| **AI / LLM**         | LeetCode AI Intelligence, Notes Maker Pro, Video Transcriber, Gemini Nano extension work, Animation Assistant |
+| **Backend / APIs**   | FastAPI Todos, FastAPI small projects, backend services                                                       |
+| **Analytics / Data** | Retail Sales ETL, Food Delivery Analytics, Hotel Revenue Analytics, ShopKart Analytics                        |
+| **Frontend**         | React projects, Next.js projects, TypeScript applications                                                     |
+| **Extensions / PWA** | Browser extensions, PWA work, AI-assisted browser tooling                                                     |
+| **Utilities**        | Overlooker, Bookmarker Pro, Video Toolkit and developer helpers                                               |
+
+</details>
+
+---
+
+## 09 / A SIMPLE WAY TO DESCRIBE MY WORK
+
+<div align="center">
 
 ```text
-Frontend
-├── React
-├── TypeScript
-├── JavaScript
-├── Next.js
-└── Tailwind
-
-Backend
-├── Python
-├── FastAPI
-├── REST APIs
-├── AsyncIO
-└── Django
-
-AI
-├── LLM Applications
-├── RAG
-├── MCP
-├── AI Automation
-└── Machine Learning
-
-Data
-├── PostgreSQL
-├── SQLite
-├── Redis
-├── Pandas
-└── ETL / Analytics
-
-Infrastructure
-├── Docker
-├── AWS
-├── Linux
-├── Git
-└── CI/CD
+        PRODUCT
+           │
+           ▼
+      ┌───────────┐
+      │   REACT   │
+      └─────┬─────┘
+            │
+            ▼
+      ┌───────────┐
+      │  FASTAPI  │
+      └─────┬─────┘
+            │
+       ┌────┴────┐
+       ▼         ▼
+   DATABASE      AI
+       │         │
+       └────┬────┘
+            ▼
+      DEPLOY / ITERATE
 ```
 
----
+<sub><b>Interface → API → Data → Intelligence → Product</b></sub>
 
-## 🔬 Currently Building
-
-I'm currently focused on projects around:
-
-* AI-assisted developer tooling
-* Full-stack applications with Python backends
-* FastAPI services and asynchronous systems
-* LLM-powered workflows
-* Data engineering and analytics
-* Developer productivity tools
-* Interactive React experiences
+</div>
 
 ---
 
-## 📌 Selected Areas of Work
+## 10 / LET'S CONNECT
 
-```text
-AI Systems              ████████████████████
-Full-Stack Development  ████████████████████
-Python / Backend        ████████████████████
-React / TypeScript      ███████████████████░
-Data Engineering        ██████████████████░░
-Cloud / Infrastructure  ███████████████░░░░░
+<div align="center">
+
+### Have a problem worth building?
+
+I am interested in **full-stack engineering, AI-powered products, developer tooling and systems that turn ideas into working software.**
+
+<br />
+
+<a href="https://github.com/b-bhupendra">
+  <img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<br />
+<br />
+
+<sub>
+  <b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>AI Engineer</b> &nbsp;·&nbsp; <b>Builder</b>
+</sub>
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" alt="accent" width="120" height="4" />
+
+<br />
+
+<sub><i>Still building. Still learning. Still breaking things and fixing them.</i></sub>
+
+</div>
 ```
-
-> I prefer shipping complete systems over isolated demos — interface, API, data layer, AI workflow and deployment.
-
----
-
-## 🛠️ More Projects
-
-My GitHub contains projects across:
-
-**AI / LLM · Full Stack · React · Python · FastAPI · Data Engineering · Analytics · Browser Extensions · Developer Tools · SQL · Machine Learning**
-
-Explore the repositories:
-
-👉 **[github.com/b-bhupendra](https://github.com/b-bhupendra)**
-
----
-
-## 📈 GitHub
-
-I actively experiment with new systems, frameworks and engineering patterns.
-
-The repository list includes production projects, full-stack applications, AI experiments, analytics pipelines, backend services and developer tooling.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in building **AI-powered products, full-stack systems and developer tools**.
-
-<p align="left">
-  <a href="https://github.com/b-bhupendra">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/bhupendrasinghrawat/">LinkedIn</a>
-</p>
-
----
-
-### Built with Python, React, FastAPI & curiosity.
-
-*Always building. Always learning.*
