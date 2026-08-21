@@ -1,44 +1,48 @@
-````markdown
 <div align="center">
 
-<br>
+<a href="https://github.com/b-bhupendra">
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-38BDF8?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Full-Stack Developer" />
+    <img src="https://img.shields.io/badge/AI%20ENGINEER-818CF8?style=for-the-badge&labelColor=0D1117&color=818CF8" alt="AI Engineer" />
+</a>a>
 
-<img src="https://img.shields.io/badge/-%20-00F5D4?style=flat-square" alt="accent" width="120" height="4" />
-
-<br>
-
-<sub><b>01 / PROFILE INITIALIZED</b></sub>
+<br /><br />
 
 # Bhupendra Singh Rawat
 
-### Full-Stack Developer · AI Engineer
+<sub><code>PYTHON</code> &nbsp;<div align="center">
 
-<p>
-  <b>Python</b> &nbsp;·&nbsp; <b>React</b> &nbsp;·&nbsp; <b>FastAPI</b> &nbsp;·&nbsp; <b>TypeScript</b> &nbsp;·&nbsp; <b>AI</b>
-</p>
+<a href="https://github.com/b-bhupendra">
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-38BDF8?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Full-Stack Developer" />
+    <img src="https://img.shields.io/badge/AI%20ENGINEER-818CF8?style=for-the-badge&labelColor=0D1117&color=818CF8" alt="AI Engineer" />
+</a>a>
 
-<p>
-  I build complete software systems — from polished interfaces and APIs
-  <br />
-  to intelligent workflows, data pipelines and developer tools.
-</p>
+<br /><br />
+
+# Bhupendra Singh Rawat
+
+<sub><code>PYTHON</code> &nbsp;&bull;&nbsp; <code>REACT</code> &nbsp;&bull;&nbsp; <code>FASTAPI</code> &nbsp;&bull;&nbsp; <code>TYPESCRIPT</code> &nbsp;&bull;&nbsp; <code>AI WORKFLOWS</code></sub>
+
+<br /><br />
+
+<p align="center">
+  Architecting <strong>cohesive software systems</strong>strong> &mdash; bridging polished user interfaces, robust APIs,
+    <br />
+      intelligent autonomous workflows, and reliable data pipelines.
+</p>p>
 
 <br />
 
-<a href="https://github.com/b-bhupendra">
-  <img src="https://img.shields.io/badge/GitHub-b--bhupendra-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-</a>
-&nbsp;
 <a href="https://github.com/b-bhupendra?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20the%20work-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Repositories" />
-</a>
+  <img src="https://img.shields.io/badge/Explore%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="Explore Projects" />
+</a>a>
 
-<br />
-<br />
+<br /><br />
 
-<sub>
-  <b>PYTHON</b> &nbsp;/&nbsp; <b>REACT</b> &nbsp;/&nbsp; <b>FASTAPI</b> &nbsp;/&nbsp; <b>AI</b>
-</sub>
+<img src="https://img.shields.io/badge/BUILDER-38BDF8?style=flat-square&labelColor=161B22" alt="Builder" />
+&nbsp;
+<img src="https://img.shields.io/badge/SYSTEMS-60A5FA?style=flat-square&labelColor=161B22" alt="Systems" />
+&nbsp;
+<img src="https://img.shields.io/badge/INTELLIGENCE-818CF8?style=flat-square&labelColor=161B22" alt="Intelligence" />
 
 </div>
 
@@ -46,394 +50,425 @@
 
 <div align="center">
 
-> <i>"Build the whole system — not just the visible part."</i>
+  <sub><strong>01 / PROFILE</strong></sub>
 
-</div>
+  <blockquote>
+      <p><em>&ldquo;Build the whole system &mdash; not just the visible surface.&rdquo;</em>em></p>p>
+  </blockquote>blockquote>
+  
+  </div>
+  
+  I operate at the convergence of **product engineering, backend architecture, and applied AI systems**.
+  
+  My focus centers where layers integrate: fluid React interfaces communicating with resilient FastAPI microservices, streaming real-time pipelines, and AI capabilities embedded with concrete business intent.
+  
+  The objective: **Clean, maintainable software with deliberate engineering underneath.**
+  
+  ---
+  
+  <div align="center">
 
-## 02 / WHAT I BUILD
+    <sub><strong>02 / CORE PILLARS</strong></sub>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+    </div>
 
-### ◈ Full-Stack
-
-I build end-to-end applications where the interface, API, data layer and product logic work as one system.
-
-**React**  
-**TypeScript**  
-**Python**  
-**FastAPI**  
-**REST APIs**
-
-</td>
-<td width="33%" valign="top">
-
-### ◇ Intelligent Systems
-
-I use AI as an engineering layer — turning models into workflows, tools and useful product features.
-
-**LLM applications**  
-**RAG**  
-**MCP**  
-**AI automation**  
-**Machine Learning**
-
-</td>
-<td width="33%" valign="top">
-
-### ◆ Data & Infrastructure
-
-The less-visible parts matter too: storage, pipelines, async work, deployment and observability.
-
-**SQL**  
-**PostgreSQL**  
-**ETL**  
-**Docker**  
-**AWS / Linux**
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / A LITTLE CONTEXT
-
-```python
-class Developer:
-    name = "Bhupendra"
-    role = "Full-Stack Developer · AI Engineer"
-
-    focus = [
-        "Full-Stack Applications",
-        "Python Backend Engineering",
-        "AI-Powered Products",
-        "Data & Automation",
-    ]
-
-    stack = {
-        "frontend": ["React", "TypeScript"],
-        "backend": ["Python", "FastAPI"],
-        "data": ["SQL", "Pandas", "PostgreSQL"],
-        "ai": ["LLMs", "RAG", "MCP"],
-        "infra": ["Docker", "AWS", "Linux"],
-    }
-
-    philosophy = "Understand the problem. Design the system. Ship the result."
-````
-
-The part of software engineering I enjoy most is the **connection between layers**.
-
-A good interface should know what the backend needs.
-A good backend should know where the data is going.
-An AI feature should solve a real problem rather than exist as decoration.
-
-That is the space I like working in: **useful products with solid engineering underneath.**
-
----
-
-## 04 / SELECTED SYSTEMS
-
-> A deliberately small selection from a much larger collection of projects, experiments and engineering work.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 LeetCode AI Intelligence
-
-Autonomous AI intelligence platform combining problem analysis, company classification, algorithmic archetypes, continuous ingestion and MCP tooling.
-
-`Python` `AI/LLM` `MCP` `Data Pipelines`
-
-<a href="https://github.com/b-bhupendra/leetcode-ai-intelligence"><b>View repository →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ AETHER-HUB
-
-A translucent developer workspace and project-management engine built around a React interface and Go/Wails desktop architecture.
-
-`React` `TypeScript` `Go` `Wails`
-
-<a href="https://github.com/b-bhupendra/AETHER-HUB"><b>View repository →</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Business Management System
-
-A complete business application split across frontend and backend repositories, giving the UI, service layer and application logic room to evolve independently.
-
-`React` `TypeScript` `Python`
-
-<a href="https://github.com/b-bhupendra/Business-management-system-frontend"><b>Frontend →</b></a>
- ·  <a href="https://github.com/b-bhupendra/Business-management-system-backend"><b>Backend →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎥 Video Transcriber
-
-LLM-based tooling for transforming video content into structured knowledge and reusable references.
-
-`TypeScript` `LLM` `AI Workflows`
-
-<a href="https://github.com/b-bhupendra/Video-Transcriber"><b>View repository →</b></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Retail Sales ETL
-
-End-to-end retail data pipeline work covering transformation, analytical datasets and business-facing dashboard outputs.
-
-`Python` `Pandas` `SQL` `Streamlit`
-
-<a href="https://github.com/b-bhupendra/retail_sales_etl_analytics_pipeline"><b>View repository →</b></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍔 Food Delivery Analytics
-
-Marketplace analytics exploring customer behaviour, order milestones, loyalty patterns and SQL-driven insights.
-
-`Python` `SQL` `Streamlit` `SQLite`
-
-<a href="https://github.com/b-bhupendra/food_delivery_sql_streamlit_analytics"><b>View repository →</b></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 05 / THE TOOLBOX
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### Frontend
-
-`React` `TypeScript` `JavaScript` `Next.js` `Tailwind CSS`
-
-<br />
-
-#### Backend
-
-`Python` `FastAPI` `Django` `REST APIs` `AsyncIO`
-
-</td>
-<td valign="top" width="50%">
-
-#### Data / AI / Systems
-
-`SQL` `PostgreSQL` `SQLite` `Redis` `Pandas`
-
-`LLMs` `RAG` `MCP` `Machine Learning`
-
-<br />
-
-#### Infrastructure / Other
-
-`Docker` `AWS` `Linux` `Git` `CI/CD` `Go` `Wails`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>Open the stack in plain text</b></summary>
-
-<br />
-
-| Layer               | Technologies                                                |
-| ------------------- | ----------------------------------------------------------- |
-| **Frontend**        | React, TypeScript, JavaScript, Next.js, Tailwind CSS        |
-| **Backend**         | Python, FastAPI, Django, REST APIs, asynchronous services   |
-| **AI**              | LLM applications, RAG, MCP, AI automation, Machine Learning |
-| **Data**            | SQL, PostgreSQL, SQLite, Redis, Pandas, ETL, analytics      |
-| **Infrastructure**  | Docker, AWS, Linux, Git, CI/CD                              |
-| **Desktop / Tools** | Go, Wails, browser extensions, developer utilities          |
-
-</details>
-
----
-
-## 06 / HOW I LIKE TO WORK
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-### 01
-
-**UNDERSTAND**
-
-Start with the real problem, not the technology.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 02
-
-**DESIGN**
-
-Shape the architecture before adding unnecessary complexity.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 03
-
-**BUILD**
-
-Keep the system modular, testable and understandable.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 04
-
-**REFINE**
-
-Polish the interface, performance and developer experience.
-
-</td>
-</tr>
-</table>
-
----
-
-## 07 / CURRENT INTERESTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**AI / INTELLIGENCE**
-
-• LLM-powered applications
-• AI-assisted developer tooling
-• RAG and knowledge workflows
-• MCP-based integrations
-
-</td>
-<td width="50%" valign="top">
-
-**ENGINEERING / PRODUCT**
-
-• Python + FastAPI services
-• React product interfaces
-• Async backend systems
-• Data engineering & automation
-
-</td>
-</tr>
-</table>
-
----
-
-## 08 / MORE FROM THE LAB
-
-The repository history spans more than one kind of engineering. There are full-stack applications, AI/LLM systems, backend APIs, React projects, analytics pipelines, browser extensions, utilities, database work and smaller experiments.
-
-That mix is intentional.
-
-Some repositories represent **what I can ship**.
-Some represent **what I am learning**.
-Some exist because I wanted to know whether an idea would work.
-
-I like keeping that progression visible.
-
-<details>
-<summary><b>Explore the repository themes</b></summary>
-
-<br />
-
-| Area                 | Examples from the repository set                                                                              |
-| -------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Full Stack**       | AETHER-HUB, Business Management System, Seat Reservation System, Trim Time, Omni Food Spot                    |
-| **AI / LLM**         | LeetCode AI Intelligence, Notes Maker Pro, Video Transcriber, Gemini Nano extension work, Animation Assistant |
-| **Backend / APIs**   | FastAPI Todos, FastAPI small projects, backend services                                                       |
-| **Analytics / Data** | Retail Sales ETL, Food Delivery Analytics, Hotel Revenue Analytics, ShopKart Analytics                        |
-| **Frontend**         | React projects, Next.js projects, TypeScript applications                                                     |
-| **Extensions / PWA** | Browser extensions, PWA work, AI-assisted browser tooling                                                     |
-| **Utilities**        | Overlooker, Bookmarker Pro, Video Toolkit and developer helpers                                               |
-
-</details>
-
----
-
-## 09 / A SIMPLE WAY TO DESCRIBE MY WORK
-
-<div align="center">
-
-```text
-        PRODUCT
-           │
-           ▼
-      ┌───────────┐
-      │   REACT   │
-      └─────┬─────┘
-            │
-            ▼
-      ┌───────────┐
-      │  FASTAPI  │
-      └─────┬─────┘
-            │
-       ┌────┴────┐
-       ▼         ▼
-   DATABASE      AI
-       │         │
-       └────┬────┘
-            ▼
-      DEPLOY / ITERATE
-```
-
-<sub><b>Interface → API → Data → Intelligence → Product</b></sub>
-
-</div>
-
----
-
-## 10 / LET'S CONNECT
-
-<div align="center">
-
-### Have a problem worth building?
-
-I am interested in **full-stack engineering, AI-powered products, developer tooling and systems that turn ideas into working software.**
-
-<br />
-
-<a href="https://github.com/b-bhupendra">
-  <img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-<br />
-<br />
-
-<sub>
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; <b>AI Engineer</b> &nbsp;·&nbsp; <b>Builder</b>
-</sub>
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" alt="accent" width="120" height="4" />
-
-<br />
-
-<sub><i>Still building. Still learning. Still breaking things and fixing them.</i></sub>
-
-</div>
-```
+    <table>
+    <tr>
+    <td width="33.33%" valign="top">
+
+    <h3>&#9672; Full-Stack</h3>
+
+    Cohesive web applications where interfaces, API contracts, data models, and business logic operate in synergy.
+
+    <br />
+
+    <code>React</code> <code>TypeScript</code><br />
+    <code>Python</code> <code>FastAPI</code><br />
+    <code>Next.js</code> <code>Tailwind/CSS</code>
+
+    </td>
+    <td width="33.33%" valign="top">
+
+    <h3>&#9671; Intelligent Systems</h3>
+
+    LLMs and agentic workflows integrated as core architectural layers: autonomous retrieval, RAG, and MCP tooling.
+
+    <br />
+
+    <code>LLMs</code> <code>RAG</code><br />
+    <code>MCP</code> <code>Agentic Workflows</code><br />
+    <code>Machine Learning</code>
+
+    </td>
+    <td width="33.33%" valign="top">
+
+    <h3>&#9670; Data & Infrastructure</h3>
+
+    Foundational backbones ensuring scalability and uptime: asynchronous task queues, relational modeling, and containerization.
+
+    <br />
+
+    <code>PostgreSQL</code> <code>SQL</code><br />
+    <code>ETL Pipelines</code> <code>Docker</code><br />
+    <code>AWS</code> <code>Linux</code>
+
+    </td>
+    </tr>
+    </table>
+
+    ---
+
+    <div align="center">
+
+    <sub><strong>03 / ENGINEERING PHILOSOPHY</strong></sub>
+
+    </div>
+
+    <table>
+    <tr>
+    <td width="25%" align="center" valign="top">
+    <h3>01</h3>
+    <strong>UNDERSTAND</strong>
+    <p>Deconstruct the root problem before selecting technology.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+    <h3>02</h3>
+    <strong>DESIGN</strong>
+    <p>Structure clean contracts and clear boundary separations.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+    <h3>03</h3>
+    <strong>BUILD</strong>
+    <p>Engineer modular, verifiable, and testable components.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+    <h3>04</h3>
+    <strong>REFINE</strong>
+    <p>Iterate on latency, DX, ergonomics, and visual polish.</p>
+    </td>
+    </tr>
+    </table>
+
+    ---
+
+    <div align="center">
+
+    <sub><strong>04 / ARCHITECTURAL CONTEXT</strong></sub>
+
+    </div>
+
+    ```python
+    class Engineer:
+        identity = "Bhupendra Singh Rawat"
+            specialization = "Full-Stack Architecture - Applied AI Engineering"
+
+                focus_areas = [
+                        "Full-Stack Applications",
+                                "Python Backend Microservices",
+                                        "Agentic & RAG Knowledge Systems",
+                                                "Data Pipelines & Developer Tooling",
+                                                    ]
+
+                                                        core_stack = {
+                                                                "frontend": ["React", "TypeScript", "Next.js"],
+                                                                        "backend": ["Python", "FastAPI", "RESTful APIs"],
+                                                                                "data": ["PostgreSQL", "SQL", "Pandas", "ETL"],
+                                                                                        "ai_workflows": ["LLMs", "RAG Pipelines", "MCP Servers"],
+                                                                                                "cloud_infra": ["Docker", "Linux", "AWS", "Git"],
+                                                                                                    }
+                                                                                                    
+                                                                                                        ethos = "Understand the problem. Design the architecture. Ship high-standard code."
+                                                                                                        ```
+                                                                                                        
+                                                                                                        **Systems thinking forms the core of my development cycle.**
+                                                                                                        
+                                                                                                        An intuitive UI should understand its backend payloads. A backend service must respect downstream query performance. An AI integration should deliver durable utility beyond initial prototypes.
+                                                                                                        
+                                                                                                        ---
+                                                                                                        
+                                                                                                        <div align="center">
+                                                                                                        
+                                                                                                        <sub><strong>05 / FEATURED PROJECTS</strong></sub>
+                                                                                                        
+                                                                                                        <p><em>Selected production and applied intelligence repositories.</em></p>
+                                                                                                        
+                                                                                                        </div>
+                                                                                                        
+                                                                                                        <table>
+                                                                                                        <tr>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h3>&#129504; LeetCode AI Intelligence</h3>
+                                                                                                        
+                                                                                                        Autonomous AI intelligence platform combining algorithmic archetype classification, continuous ingestion scrapers, two-way MCP server, and analytics dashboard.
+                                                                                                        
+                                                                                                        <br />
+                                                                                                        
+                                                                                                        <code>Python</code> <code>AI/LLM</code> <code>MCP</code> <code>Data Analysis</code>
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <a href="https://github.com/b-bhupendra/leetcode-ai-intelligence"><strong>View repository &rarr;</strong></a>
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h3>&#9889; AETHER-HUB</h3>
+                                                                                                        
+                                                                                                        Translucent desktop developer workspace and project management engine built around React and Go / Wails v2 desktop architecture.
+                                                                                                        
+                                                                                                        <br />
+                                                                                                        
+                                                                                                        <code>React</code> <code>TypeScript</code> <code>Go</code> <code>Wails</code>
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <a href="https://github.com/b-bhupendra/AETHER-HUB"><strong>View repository &rarr;</strong></a>
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        </tr>
+                                                                                                        <tr>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h3>&#127970; Business Management System</h3>
+                                                                                                        
+                                                                                                        Decoupled full-stack business operations suite with dedicated TypeScript frontend and Python service layer for agile scalability.
+                                                                                                        
+                                                                                                        <br />
+                                                                                                        
+                                                                                                        <code>React</code> <code>TypeScript</code> <code>Python</code> <code>API</code>
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <a href="https://github.com/b-bhupendra/Business-management-system-frontend"><strong>Frontend &rarr;</strong></a>
+                                                                                                        &nbsp;&bull;&nbsp;
+                                                                                                        <a href="https://github.com/b-bhupendra/Business-management-system-backend"><strong>Backend &rarr;</strong></a>
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h3>&#127916; Video Transcriptor</h3>
+                                                                                                        
+                                                                                                        LLM-driven video processing pipeline that extracts, parses, and converts multimedia into structured knowledge bases and semantic references.
+                                                                                                        
+                                                                                                        <br />
+                                                                                                        
+                                                                                                        <code>TypeScript</code> <code>LLM</code> <code>AI Pipelines</code>
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <a href="https://github.com/b-bhupendra/Video-Transcriber"><strong>View repository &rarr;</strong></a>
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        </tr>
+                                                                                                        <tr>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h3>&#128202; Retail Sales ETL & Analytics</h3>
+                                                                                                        
+                                                                                                        End-to-end data pipeline implementing robust ingestion, structured analytical transformations, and interactive Streamlit executive dashboards.
+                                                                                                        
+                                                                                                        <br />
+                                                                                                        
+                                                                                                        <code>Python</code> <code>Pandas</code> <code>SQL</code> <code>Streamlit</code>
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <a href="https://github.com/b-bhupendra/retail_sales_etl_analytics_pipeline"><strong>View repository &rarr;</strong></a>
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h3>&#127828; Food Delivery Marketplace Analytics</h3>
+                                                                                                        
+                                                                                                        Comprehensive SQL and Python analytical platform investigating user cohorts, milestone funnels, and ordering trends with interactive visualizations.
+                                                                                                        
+                                                                                                        <br />
+                                                                                                        
+                                                                                                        <code>Python</code> <code>SQL</code> <code>Streamlit</code> <code>Analytics</code>
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <a href="https://github.com/b-bhupendra/food_delivery_sql_streamlit_analytics"><strong>View repository &rarr;</strong></a>
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        </tr>
+                                                                                                        </table>
+                                                                                                        
+                                                                                                        ---
+                                                                                                        
+                                                                                                        <div align="center">
+                                                                                                        
+                                                                                                        <sub><strong>06 / TECHNOLOGY STACK</strong></sub>
+                                                                                                        
+                                                                                                        </div>
+                                                                                                        
+                                                                                                        <table>
+                                                                                                        <tr>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h4>FRONTEND</h4>
+                                                                                                        
+                                                                                                        <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+                                                                                                        <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+                                                                                                        <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=FCD34D" alt="JavaScript" />
+                                                                                                        <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=next.js&logoColor=E2E8F0" alt="Next.js" />
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <h4>BACKEND</h4>
+                                                                                                        
+                                                                                                        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" />
+                                                                                                        <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=2DD4BF" alt="FastAPI" />
+                                                                                                        <img src="https://img.shields.io/badge/REST%20APIs-161B22?style=flat-square&logo=postman&logoColor=38BDF8" alt="REST" />
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        <td width="50%" valign="top">
+                                                                                                        
+                                                                                                        <h4>AI / APPLIED INTELLIGENCE</h4>
+                                                                                                        
+                                                                                                        <img src="https://img.shields.io/badge/LLMs-161B22?style=flat-square&logo=openai&logoColor=E2E8F0" alt="LLMs" />
+                                                                                                        <img src="https://img.shields.io/badge/RAG%20Pipelines-161B22?style=flat-square&logo=bookstack&logoColor=818CF8" alt="RAG" />
+                                                                                                        <img src="https://img.shields.io/badge/MCP%20Servers-161B22?style=flat-square&logo=anthropic&logoColor=38BDF8" alt="MCP" />
+                                                                                                        <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
+                                                                                                        <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=818CF8" alt="Pandas" />
+                                                                                                        
+                                                                                                        <br /><br />
+                                                                                                        
+                                                                                                        <h4>INFRASTRUCTURE & WORKFLOWS</h4>
+                                                                                                        
+                                                                                                        <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=38BDF8" alt="Docker" />
+                                                                                                        <img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonaws&logoColor=FDBA74" alt="AWS" />
+                                                                                                        <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=E2E8F0" alt="Linux" />
+                                                                                                        <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F87171" alt="Git" />
+                                                                                                        
+                                                                                                        </td>
+                                                                                                        </tr>
+                                                                                                        </table>
+                                                                                                        
+                                                                                                        ---
+                                                                                                        
+                                                                                                        <div align="center">
+                                                                                                        
+                                                                                                        <sub><strong>07 / SYSTEM FLOW</strong></sub>
+                                                                                                        
+                                                                                                        </div>
+                                                                                                        
+                                                                                                        <table>
+                                                                                                        <tr>
+                                                                                                        <td align="center" width="20%"><strong>PRODUCT</strong><br /><sub>concept / problem</sub></td>
+                                                                                                        <td align="center" width="4%">&rarr;</td>
+                                                                                                        <td align="center" width="20%"><strong>REACT</strong><br /><sub>interface</sub></td>
+                                                                                                        <td align="center" width="4%">&rarr;</td>
+                                                                                                        <td align="center" width="20%"><strong>FASTAPI</strong><br /><sub>microservices</sub></td>
+                                                                                                        <td align="center" width="4%">&rarr;</td>
+                                                                                                        <td align="center" width="20%"><strong>APPLIED AI</strong><br /><sub>intelligence</sub></td>
+                                                                                                        <td align="center" width="4%">&rarr;</td>
+                                                                                                        <td align="center" width="20%"><strong>SHIP</strong><br /><sub>iterate</sub></td>
+                                                                                                        </tr>
+                                                                                                        </table>
+                                                                                                        
+                                                                                                        <p align="center">
+                                                                                                          <sub><code>INTERFACE &rarr; API CONTRACT &rarr; DATA PIPELINE &rarr; INTELLIGENCE &rarr; USER VALUE</code></sub>
+                                                                                                          </p>
+                                                                                                          
+                                                                                                          ---
+                                                                                                          
+                                                                                                          <div align="center">
+                                                                                                          
+                                                                                                          <sub><strong>08 / CURRENT FOCUS</strong></sub>
+                                                                                                          
+                                                                                                          </div>
+                                                                                                          
+                                                                                                          <table>
+                                                                                                          <tr>
+                                                                                                          <td width="50%" valign="top">
+                                                                                                          
+                                                                                                          <h3>AI / INTELLIGENCE</h3>
+                                                                                                          
+                                                                                                          &bull; LLM-powered applications & agentic workflows<br />
+                                                                                                          &bull; Developer tooling with MCP integration<br />
+                                                                                                          &bull; Semantic RAG & local knowledge parsing<br />
+                                                                                                          &bull; Small model inference & edge AI refinement
+                                                                                                          
+                                                                                                          </td>
+                                                                                                          <td width="50%" valign="top">
+                                                                                                          
+                                                                                                          <h3>ENGINEERING / PRODUCT</h3>
+                                                                                                          
+                                                                                                          &bull; Python + FastAPI async service backbones<br />
+                                                                                                          &bull; Modern React interfaces & component systems<br />
+                                                                                                          &bull; High-performance ETL & data analytics<br />
+                                                                                                          &bull; Automated backup daemons & utility tooling
+                                                                                                          
+                                                                                                          </td>
+                                                                                                          </tr>
+                                                                                                          </table>
+                                                                                                          
+                                                                                                          ---
+                                                                                                          
+                                                                                                          <div align="center">
+                                                                                                          
+                                                                                                          <sub><strong>09 / REPOSITORY INDEX</strong></sub>
+                                                                                                          
+                                                                                                          </div>
+                                                                                                          
+                                                                                                          My GitHub profile spans multiple engineering domains: **full-stack web apps, AI & LLM tooling, backend microservices, data analytics pipelines, extensions, and developer utilities.**
+                                                                                                          
+                                                                                                          <details>
+                                                                                                          <summary><strong>Expand Repository Themes & Breakdown</strong></summary>
+                                                                                                          
+                                                                                                          <br />
+                                                                                                          
+                                                                                                          | Category | Key Repositories & Implementations |
+                                                                                                          |---|---|
+                                                                                                          | **Full-Stack** | `AETHER-HUB`, `Business-management-system`, `SEAT_RESERVATION_SYS`, `Trim_Time`, `Omni_food_spOt` |
+                                                                                                          | **AI / LLM** | `leetcode-ai-intelligence`, `notes_maker_pro`, `Video-Transcriber`, `div-capture-extension`, `Animatior-Assistant` |
+                                                                                                          | **Backend & APIs** | `fastapi_todos`, `fapi-smallprojects`, `blog-bkend`, `WorkoutTracker` |
+                                                                                                          | **Data & Analytics** | `retail_sales_etl_analytics_pipeline`, `food_delivery_sql_streamlit_analytics`, `hotel_revenue_codebasics`, `shopkart-project` |
+                                                                                                          | **Frontend & UI** | `MonsterRolodex`, `monstergrid`, `clothing-store`, `nextjs-learning` |
+                                                                                                          | **Extensions & PWA** | `bionic_chrome_extension`, `div-capture-extension`, `pwa_ios_working` |
+                                                                                                          | **Utilities & Tools** | `overlooker`, `proto-overlooker-v2`, `bookmarker-pro`, `medium_scrapper`, `video-toolkit` |
+                                                                                                          
+                                                                                                          </details>
+                                                                                                          
+                                                                                                          ---
+                                                                                                          
+                                                                                                          <div align="center">
+                                                                                                          
+                                                                                                          <sub><strong>10 / CONNECT & COLLABORATE</strong></sub>
+                                                                                                          
+                                                                                                          <br /><br />
+                                                                                                          
+                                                                                                          <h2>Building software that solves real problems.</h2>
+                                                                                                          
+                                                                                                          <p>
+                                                                                                          Open to discussions around <strong>full-stack development, applied AI workflows,<br />developer tooling, and high-performance backend systems.</strong>
+                                                                                                          </p>
+                                                                                                          
+                                                                                                          <br />
+                                                                                                          
+                                                                                                          <a href="https://github.com/b-bhupendra">
+                                                                                                            <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0D1117" alt="GitHub" />
+                                                                                                            </a>
+                                                                                                            
+                                                                                                            <br /><br />
+                                                                                                            
+                                                                                                            <sub>
+                                                                                                              <b>FULL-STACK DEVELOPER</b> &nbsp;&bull;&nbsp; <b>AI SYSTEMS</b> &nbsp;&bull;&nbsp; <b>BUILDER</b>
+                                                                                                              </sub>
+                                                                                                              
+                                                                                                              <br /><br />
+                                                                                                              
+                                                                                                              <img src="https://img.shields.io/badge/-%20-38BDF8?style=flat-square" alt="cyan accent" width="80" height="3" />
+                                                                                                              &nbsp;
+                                                                                                              <img src="https://img.shields.io/badge/-%20-818CF8?style=flat-square" alt="indigo accent" width="40" height="3" />
+                                                                                                              
+                                                                                                              <br /><br />
+                                                                                                              
+                                                                                                              <sub><i>Continuous iteration. Intentional architecture. Practical execution.</i></sub>
+                                                                                                              
+                                                                                                              </div>
+  </p>
+  </blockquote>
+</strong>
